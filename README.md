@@ -1,5 +1,5 @@
 # Chess-Pieces-from-scratch
-this is for half life week 2, where I made custom chess pieces. These chess pieces are technically Tournament legal because I designed them
+this is for half life week 2, where I made custom chess pieces. These chess pieces are technically Tournament legal because I designed them with FIDE regulations in mind.
 
 King
 <img width="642" height="571" alt="Screenshot 2026-10-17 9 39 49 AM" src="https://github.com/user-attachments/assets/f7691818-2c40-4650-a441-b59ad575f4fa" />
