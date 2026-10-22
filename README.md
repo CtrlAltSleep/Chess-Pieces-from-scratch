@@ -19,10 +19,19 @@ Bishop
 Pawn
 <img width="642" height="571" alt="image" src="https://github.com/user-attachments/assets/cf72f95b-8a63-47ee-9d74-62405c3c437b" />
 
-Chess piece	X extent	Y extent	Z extent
+Chess piece 	X extent	Y extent	Z extent
+
 Bishop	    35.00 mm	6.43 mm	  67.50 mm
+
 King	      47.50 mm	30.25 mm	94.02 mm
+
 Knight	    45.74 mm	30.15 mm	56.21 mm
+
 Pawn	      25.00 mm	~0 mm	    37.84 mm
+
 Queen	      42.50 mm	25.16 mm	86.50 mm
+
 Rook	      27.50 mm	~0 mm	    49.75 mm
+
+<img width="3837" height="2255" alt="image" src="https://github.com/user-attachments/assets/6f4e1489-5f8c-4222-a0e7-b59a7287956d" />
+
